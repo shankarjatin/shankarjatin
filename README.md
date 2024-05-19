@@ -1,9 +1,3 @@
-# Project Title
-
-![GitHub stars](https://img.shields.io/github/stars/shankarjatin/yourrepository?style=social)
-![GitHub forks](https://img.shields.io/github/forks/shankarjatin/yourrepository?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/shankarjatin/yourrepository?style=social)
-![GitHub license](https://img.shields.io/github/license/shanakrjatin/yourrepository)
 
 ## 🚀 Tech Stack
 
