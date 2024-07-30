@@ -180,6 +180,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shankarjatin&theme=radical" alt="shankarjatin" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="200" />
-</p>
