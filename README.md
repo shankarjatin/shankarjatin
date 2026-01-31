@@ -19,11 +19,11 @@
 
 - 🔭 I’m currently working on [Socio](https://github.com/shankarjatin/socio_X.git)
 
-- 🌱 I’m currently learning **NEXT.js**
+- 🌱 I’m currently learning **GenAI**
 
 - 👯 I’m looking to collaborate on [Socio](https://github.com/shankarjatin/socio_X.git)
 
-- 💬 Ask me about **React, Node and Life**
+- 💬 Ask me about **Building and Life**
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jatin-shankar-srivastava/)
 
