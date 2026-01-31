@@ -27,7 +27,7 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jatin-shankar-srivastava/)
 
-- 📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/1y_ulTg-x1ibQp4DiZ9HA6iAtxUlpBhOkWCHVWaLWv3s/edit?usp=sharing)
+
 
 - ⚡ Fun fact: **Sweet Psychopath**
 
